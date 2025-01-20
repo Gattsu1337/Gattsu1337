@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gattsu1337 - a first year bachelors student studying Software Engineering at Plovdiv University.
-- 👀 I’m interested in Python web development and machine learning. I also enjoy learning about Java OOP and C++ in university!
-- 🌱 I’m constantly learning in the fields of Python, C++, Java, C#, HTML and CSS.
+- 👋 Hi, I’m @Gattsu1337 - a second year bachelors student studying Software Engineering at Plovdiv University.
+- 👀 I’m interested in React and ASP .NET web development. I also enjoy competitive programming on C++ in my university team!
+- 🌱 I’m constantly learning in the fields of React, Typescript, C++, ASP .NET, HTML and CSS.
 - 📫 How to reach me: djakata754@gmail.com
 
 <!---
